@@ -1,0 +1,17 @@
+.weather-form {
+    text-align: center;
+}
+
+.city-input {
+    width: 740px;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    margin-left: 55px;
+}
+
+.search-button {
+    padding: 10px 25px;
+    font-size: 16px;
+    margin-left: 5px ;
+}
